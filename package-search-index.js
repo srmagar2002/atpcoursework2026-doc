@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.aptcoursework.controller"},{"l":"com.aptcoursework.controller.filter"},{"l":"com.aptcoursework.dao"},{"l":"com.aptcoursework.entity"},{"l":"com.aptcoursework.enums"},{"l":"com.aptcoursework.utils"}];updateSearchResults();

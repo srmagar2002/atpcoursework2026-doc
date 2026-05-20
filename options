@@ -1,0 +1,25 @@
+--no-fonts
+-classpath
+'C:/Users/sugam/.m2/repository/com/mysql/mysql-connector-j/9.2.0/mysql-connector-j-9.2.0.jar;C:/Users/sugam/.m2/repository/com/google/protobuf/protobuf-java/4.29.0/protobuf-java-4.29.0.jar;C:/Users/sugam/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0.jar;C:/Users/sugam/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0.jar;C:/Users/sugam/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.2/jakarta.servlet.jsp.jstl-api-3.0.2.jar;C:/Users/sugam/.m2/repository/jakarta/el/jakarta.el-api/5.0.0/jakarta.el-api-5.0.0.jar;C:/Users/sugam/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar;C:/Users/sugam/.m2/repository/io/github/cdimascio/dotenv-java/2.3.2/dotenv-java-2.3.2.jar;C:/Users/sugam/.m2/repository/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'25'
+-sourcepath
+'C:/Users/sugam/Desktop/2nd Year Sem2 Work/CourseWork/APT/Coursework/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sugam/Desktop/2nd Year Sem2 Work/CourseWork/APT/Coursework/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'APTCoursework 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'APTCoursework 1.0-SNAPSHOT API'
